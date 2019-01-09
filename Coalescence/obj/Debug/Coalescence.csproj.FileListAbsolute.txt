@@ -1,0 +1,10 @@
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\bin\Debug\Coalescence.exe.config
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\bin\Debug\Coalescence.exe
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\bin\Debug\Coalescence.pdb
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.csprojAssemblyReference.cache
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.Properties.Resources.resources
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.csproj.GenerateResource.cache
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.csproj.CoreCompileInputs.cache
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.exe
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.pdb
+C:\Users\jetbl\source\repos\Coalescence\Coalescence\obj\Debug\Coalescence.Form1.resources
